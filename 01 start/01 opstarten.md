@@ -39,7 +39,9 @@ Nu gaan we live server installeren
 
 <br>![](img/liveserver.png)
 
+> LET OP, als je de stap hieronder doet, krijg je een `windows firewall `melding, je mag op `annuleren` clicken
 - gebruik de knop `go live` om de server te starten
+
 
 <br>![](img/golive.PNG)
 
