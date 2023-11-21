@@ -15,7 +15,7 @@ we gaan variabelen maken. Dat deed je zo:
 >   - andere datatypes en waardes
 > - `eenVariabeleNaam` is een naam die ik gekozen heb, dat mag alles zijn zolang het `beschrijft` wat de variabel is!
 
-- Maak deze variabelen aan in de runApplication function (*gebruik let*):
+- Maak deze variabelen aan in de `runApplication` function (*gebruik let*):
 	- appNaam (`string`)
 	- versienummer (bijvoorbeeld: `0.9` `double`)
 	- versiedatum (`string` of voor extra uitdaging een `Date`)
