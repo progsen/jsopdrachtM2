@@ -36,6 +36,8 @@ Laten we het voordoen door een nieuwe variabl te maken:
 - zet alle `console.log` regels uit `runApplication` erbuiten zoals in het plaatje
 <br>![](img/outside.PNG)
 - check of je `8` regels hebt, voor elke variabel `1`
+- zorg dat je `app.` voor je variable zet, net als `greeting`
+  - (bv appNaam wordt app.appNaam) 
 
 ## Testen
 
