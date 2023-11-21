@@ -41,6 +41,11 @@ Laten we het voordoen door een nieuwe variabl te maken:
   >  - (bv appNaam wordt app.appNaam) 
 - check of je `8` regels hebt, voor elke variabel `1`
 
+## this.
+
+- ga naar de `runApplication` function
+- vervang nu overal `let` door `this.  
+
 ## Testen
 
 - check of alles in de debug console staat!
