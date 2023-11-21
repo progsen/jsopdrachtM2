@@ -32,6 +32,7 @@
 ## live server installeren
 
 Nu gaan we live server installeren
+> In `visual studio code`, dit is een addon/extension
 
 - open je extensions (linker menu 4 blokjes)
 - zoek op live server
