@@ -15,7 +15,7 @@ we gaan variabelen maken. Dat deed je zo:
 >   - andere datatypes en waardes
 > - `eenVariabeleNaam` is een naam die ik gekozen heb, dat mag alles zijn zolang het `beschrijft` wat de variabel is!
 > ###### voorbeeld:
-> let leeftijd = 9;
+> let leeftijd = 9;  
 > let naam = "leraar";
 
 - Maak deze variabelen aan in de `runApplication` function (*gebruik let*):
