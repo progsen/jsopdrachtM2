@@ -44,7 +44,7 @@ Laten we het voordoen door een nieuwe variabl te maken:
 ## this.
 
 - ga naar de `runApplication` function
-- vervang nu overal `let` door `this.  
+- vervang nu overal `let` door `this.`  
 
 ## Testen
 
