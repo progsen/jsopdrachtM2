@@ -12,7 +12,7 @@ Uit de vorige les!
 - Kopieer files van  `02 canvashuis` naar `02 huisje`  :
     - `index.html`
     - `app.js`
-- Open de `lijnen` folder in visual studio code
+- Open de `02 huisje` folder in visual studio code
 
 ## opschonen
 
