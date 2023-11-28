@@ -48,7 +48,7 @@ de random geeft een getal van `0.0-0.999999...` terug.
 wij delen deze in 4 gebieden op:
 > - kleiner dan 0.2
 > - van 0.2 tot en met 0.6
-> - van 0.2 tot en met 0.75
+> - van 0.6 tot en met 0.75
 > - groter dan 0.75
 
 
