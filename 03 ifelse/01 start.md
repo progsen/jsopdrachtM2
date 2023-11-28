@@ -30,7 +30,7 @@
 
 ![](img/ifelsehtml.PNG)
 
-- bekijk de `tags`, bedenk je op `welke manieren` je deze `tags` kan `selecteren`
+- bekijk de `tags`, bedenk je op `welke manieren` je deze `tags` kan `selecteren` en naar je javascript kan halen
 > kijk ook in de: `presentaties` 
 > of zoek in 
 > - `w3schools`
