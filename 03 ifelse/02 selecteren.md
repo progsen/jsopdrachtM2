@@ -70,7 +70,7 @@ wij delen deze in 4 gebieden op:
 Dit was onze html:
 </br>![](img/ifelsehtml.PNG)
 
-
+> #### UITLEG
 > - We gaan werken met `document.getElementsByClassName`
 > - uit `document.getElementsByClassName` komen `0` of `meer` html tags  (als `array`)
 > - Dus `getElementsByClassName` vindt `alle` html tags die een `classname` heeft 
