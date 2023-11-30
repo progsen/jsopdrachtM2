@@ -30,12 +30,14 @@
 
 ![](img/ifelsehtml.PNG)
 
-- bekijk de `tags`, bedenk je op `welke manieren` je deze `tags` kan `selecteren`
-> kijk ook in de: `presentaties` 
-> of zoek in 
-> - `w3schools`
-> - `mozilla developers network`
-- schrijf dat met commentaar `//dit is code commentaar voor javascript` in je `app.js`
+- bekijk de `tags` van de html hierboven
+- bekijk de `presentaties van de lessen` nog eens en let op:
+    - welke `2 manieren` er zijn om html tags te selecteren met `document`
+- bedenk je op nu hoe je de `tags` kan `selecteren` uit de html hierboven zodat je ze in javascript kan gebruiken
+
+- schrijf dat met commentaar in je `app.js`
+    - HINT: `commentaar` begint met `//` in javascript:
+        - `//dit is code commentaar voor javascript` in je `app.js`
 
 ```
     class App
