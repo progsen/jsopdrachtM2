@@ -14,6 +14,9 @@ we gaan variabelen maken. Dat deed je zo:
 >   - `99`
 >   - andere datatypes en waardes
 > - `eenVariabeleNaam` is een naam die ik gekozen heb, dat mag alles zijn zolang het `beschrijft` wat de variabel is!
+> ###### voorbeeld:
+> let leeftijd = 9;  
+> let naam = "leraar";
 
 - Maak deze variabelen aan in de `runApplication` function (*gebruik let*):
 	- appNaam (`string`)
@@ -24,7 +27,7 @@ we gaan variabelen maken. Dat deed je zo:
 	- distributeur (`string`)
 	- darkmode (`boolean`)
 > wij hebben nu lokale variablen gemaakt
-> deze verdwijen zodra we uit de function zijn
+> deze verdwijnen zodra we uit de function zijn
 
 ## console.log
 

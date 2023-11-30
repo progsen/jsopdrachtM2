@@ -32,6 +32,7 @@
 ## live server installeren
 
 Nu gaan we live server installeren
+> In `visual studio code`, dit is een addon/extension
 
 - open je extensions (linker menu 4 blokjes)
 - zoek op live server
@@ -47,7 +48,7 @@ Nu gaan we live server installeren
 
 - dat start de server en laat jouw `index.html` zien
 > de pagina is nu nog `leeg`, dat is `OK`
-- kijk nu eens welke opties je ziet als je met `rechter muis` op de file in de `explorer (binnen visual studio code, waar je je files ziet)` clicked
+- kijk nu eens welke opties je ziet als je met `rechter muis` op de `index.html` in de `explorer (binnen visual studio code, waar je je files ziet)` clicked
 
 ## console.log?
 
