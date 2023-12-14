@@ -2,13 +2,13 @@
 
 - Ga naar waar jouw school werk staat
 - Ga naar de map/directory `M2 prog js`
-- Maak een map `05 extra`  
+- Maak een map `06 extra`  
 </br>![](img/veeltek.PNG)
 
-- Kopieer files van  `04 functions` naar `05 extra`  :
+- Kopieer files van  `04 functions` naar `06 extra`  :
     - `index.html`
     - `app.js`
-- Open de `05 extra` folder in visual studio code
+- Open de `06 extra` folder in visual studio code
 
 ## opschonen
 
@@ -16,8 +16,8 @@
 
 - Ga naar waar jouw school werk staat
 - Ga naar de map/directory `M2 prog js`
-- Maak een map `05 extra`
-- Open de `05 extra` folder in visual studio code
+- Maak een map `06 extra`
+- Open de `06 extra` folder in visual studio code
 
 # (Veel) Data toevoegen
 
