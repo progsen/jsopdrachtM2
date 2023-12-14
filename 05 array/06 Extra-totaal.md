@@ -5,10 +5,10 @@
 - Maak een map `06 extra`  
 </br>![](img/veeltek.PNG)
 
-- Kopieer files van  `04 functions` naar `06 extra`  :
+- Kopieer files van  `04 functions` naar `05 extra`  :
     - `index.html`
     - `app.js`
-- Open de `06 extra` folder in visual studio code
+- Open de `05 extra` folder in visual studio code
 
 ## opschonen
 
@@ -16,8 +16,8 @@
 
 - Ga naar waar jouw school werk staat
 - Ga naar de map/directory `M2 prog js`
-- Maak een map `06 extra`
-- Open de `06 extra` folder in visual studio code
+- Maak een map `05 extra`
+- Open de `05 extra` folder in visual studio code
 
 # (Veel) Data toevoegen
 
@@ -43,6 +43,7 @@ let items = [ ['boom', 'red', 1.2], ['huis', 'yellow', 0.8] ];
 ## Geef de items weer
 
 Loop nu door deze array met sub arrays heen en plaats  de aangegeven objecten.
+- teken dus je bomen, huizen etc 
 
 
 # Klaar?
