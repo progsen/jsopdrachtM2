@@ -2,7 +2,7 @@
 
 - Ga naar waar jouw school werk staat
 - Ga naar de map/directory `M2 prog js`
-- Maak een map `06 extra`  
+- Maak een map `05 extra`  
 </br>![](img/veeltek.PNG)
 
 - Kopieer files van  `04 functions` naar `05 extra`  :
