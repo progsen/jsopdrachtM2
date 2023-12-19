@@ -55,11 +55,12 @@ In het HTML bestand gaan we alle h1 tags pakken.
 > 
 > als we HTML hebben:
 > ```
-> <h1>super text</h1>
+> <h1 id="headerId">super text</h1>
 > ```
 > 
 > en javascript:
 > ```js
+> let mijnH1 = document.getElementById("headerId")
 > console.log(mijnH1.innerText);// geef weer wat de text is van mijnH1
 > ```
 > dan krijg je `super text` in de console te zien
@@ -68,6 +69,7 @@ In het HTML bestand gaan we alle h1 tags pakken.
 - gebruik een `for` loop om door je `headerByCssClass` array te gaan
 - `console.log` van `alle` elementen de `innerText`
 </br>![](img/innertext.PNG)
+
 
 
 ## inhoud veranderen
