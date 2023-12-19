@@ -21,10 +21,11 @@ Wanneer er op de knop gedrukt wordt, wordt er nu een nieuwe paragraaf met tekst 
 - voeg een extra knop toe aan je html:
 </br>![](img/knop2.PNG)
 
-- voeg nu nog meer elementen toe:
-    1. een header (`h1`)
-    2. dan een paragraaf (`p`) met eigen tekst
-    3. een `img` met een plaatje naar keuze van een favoriet character (wel netjes)
+- als je clickt op de extra knop gebeurt het volgende:
+    - je voegt nu nog meer elementen toe:
+        1. een header (`h1`)
+        2. dan een paragraaf (`p`) met eigen tekst
+        3. een `img` met een plaatje naar keuze van een favoriet character (wel netjes)
 
 > *Voorbeeld*
 > </br>![](img/result2.PNG)
@@ -38,8 +39,9 @@ Wanneer er op de knop gedrukt wordt, wordt er nu een nieuwe paragraaf met tekst 
 </br>![](img/div.PNG)
 
 
-- maak deze nu ook clickbaar net als de knoppen
+- zorg ervoor dat deze `div` ook `clickbaar` wordt net als de knoppen
 </br>![](img/divclicked.PNG)
+    - laat dan de `achtergrond kleur` van de `div` veranderen
 
 
 ## Extra: Knoppen
