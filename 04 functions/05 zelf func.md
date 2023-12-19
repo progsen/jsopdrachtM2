@@ -30,16 +30,16 @@
 - voor de `return` functions vang het resulaat in een `variabel` en `console.log` die `variabel`
     - denk aan `let`!
 - controller je resultaat in de developer console
-![](img/funcresult.PNG)
+> ![](img/funcresult.PNG)
 
-## aanroepen
+## aanroepen binnen de class met `this.`
 
 
 - roep nu elke functions aan in `runApplication`
 - voor de `return` functions vang het resulaat in een `variabel` en `console.log` die `variabel`
     - denk aan `let`!
 - controller je resultaat in de developer console
-![](img/funcresult.PNG)
+> ![](img/funcresult.PNG)
 
 
 > - TIP: vergeet `this.` niet!
