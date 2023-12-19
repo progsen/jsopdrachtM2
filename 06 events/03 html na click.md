@@ -41,7 +41,8 @@ Wanneer er op de knop gedrukt wordt, wordt er nu een nieuwe paragraaf met tekst 
 
 - zorg ervoor dat deze `div` ook `clickbaar` wordt net als de knoppen
 </br>![](img/divclicked.PNG)
-    - laat dan de `achtergrond kleur` van de `div` veranderen
+    - voeg na de click een h1 toe met `clicked a div` als tekst
+    - verzin 1 extra actie als je clicked
 
 
 ## Extra: Knoppen
