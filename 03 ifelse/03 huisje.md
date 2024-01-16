@@ -14,7 +14,7 @@
     - `index.html`
     - `app.js`
 
-- open de directory `03 ifelse` in visual studio code
+- open de directory `03 ifelse huisje` in visual studio code
 
 
 ## Is er iemand thuis?
