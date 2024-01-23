@@ -24,7 +24,7 @@ Het opvragen kan op meerdere manieren
 In het HTML bestand gaan we alle h1 tags pakken. 
 > !!! Dit is geen nette manier van werken, want wanneer je meer content en headers kan je misschien teveel opvragen. *`Weet dat deze manier bestaat`*
 
-</br>![](img/getbytag.PNG)
+</br>![](img/getbytag.png)
 
 > in de variable `headers` komt nu een `array` waarin alle `h1 html elementen` van het `html document` zitten
 
